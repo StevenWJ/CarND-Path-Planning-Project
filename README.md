@@ -31,7 +31,7 @@ Here is the summary of the updates:
 
 ### The results
 Screen recordings of the simulator to show the final results.
-* [Demo.mov](Demo.mov)            Running the car simulator with the Path Planning routines.
+* [Youtube Video](https://youtu.be/dLjtK9FXfMs)            Running the car simulator with the Path Planning routines.
 
 ## Highlights of the codes 
 
@@ -180,11 +180,7 @@ The new coordinates $(x, y)$ are transformed to map coordinates.  Finally, I pre
 
 ## Final Results
 The car can drve for a long distance without any incident such as violating the speed limit, causing high acceleration and jerk, or crahing into other cars. It is able to change lane when necessary as required by the [project rubric](https://review.udacity.com/#!/rubrics/1971/view).   
-<p>
-    <img src="./result.png" alt="The car drives far more than 4.32 miles"/>
-    <br>
-    <em>The car drives far more than 4.32 miles</em>
-</p>
+
 
 
 
